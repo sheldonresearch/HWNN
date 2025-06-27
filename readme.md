@@ -6,9 +6,9 @@ You can directly access the source code of HWNN in the repository [Here HWNN](ht
 or you can use it in the EasyGraph framework via its sub-area tool: [EasyHypergraph](https://easy-graph.github.io/docs/hypergraph.html).
 
 
-``easygraph.model.hypergraphs.hwnn``
+> ``easygraph.model.hypergraphs.hwnn``
 
-In the near future, I will try to finish the code tutorial, usage example, etc to make this work impact more widely. (If you could help me finish this work, it would be greatly appreciated!)
+**In the near future, I will try to finish the code tutorial, usage example, etc to make this work impact more widely. (If you could help me finish this work, it would be greatly appreciated!)**
 
 Please cite our paper if possible:
 
