@@ -1,4 +1,4 @@
-# News:
+# News (June 27, 2025):
 I am so glad to share that the advanced version of this model (with PyTorch) has been implemented and now integrated into the well-known hypergraph library: [EasyGraph](https://easy-graph.github.io)
 
 You can directly access the source code of HWNN in the repository [Here HWNN](https://github.com/easy-graph/Easy-Graph/blob/pybind11/easygraph/model/hypergraphs/hwnn.py)
